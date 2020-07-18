@@ -7,7 +7,7 @@
         "city": "Santa Barbara",
         "email": "janicetsai@ucla.edu",
         "website": "https://janicetsai1.github.io/my-website/",
-        "resumedownload": "resume link",
+        "resumedownload": "resume_2020.pdf",
         "social":[
             {
               "name":"facebook",
@@ -107,16 +107,16 @@
             "url":"http://www.bruinhomesolutions.com/index.html"
           },
           {
-            "title":"Smart Coffee Machine",
-            "category":"Hands free coffee machine controlled via bluetooth",
-            "image":"original-thai-food.jpg",
-            "url":"https://www.linkedin.com/company/creativelabs-la/"
+            "title":"Personal Website",
+            "category":"A React based resume website template",
+            "image":"my_website_screenshot.png",
+            "url":"https://janicetsai1.github.io/my-website/"
           },
           {
-            "title":"Resume Website",
-            "category":"A React based resume website template",
-            "image":"resume-website.jpg",
-            "url":"https://janicetsai1.github.io/my-portfolio/"
+            "title":"Smart Coffee Machine",
+            "category":"Hands free coffee machine controlled via bluetooth",
+            "image":"creative_labs.jpg",
+            "url":"https://www.linkedin.com/company/creativelabs-la/"
           }
         ]
       },
