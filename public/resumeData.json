@@ -2,9 +2,8 @@
     "main": {
         "name": "Janice Tsai",
         "occupation": "computer science student",
-        "description": "Interested in cloud computing and security",
-        "image": "profile pic jpg here",
-        "bio": "add bio",
+        "description": "Interested in cloud computing, network, and security",
+        "bio": "Aside from coding and learning new ways of solving problems, I really enjoy hiking, music, and beautiful sunsets.",
         "city": "Santa Barbara",
         "email": "janicetsai@ucla.edu",
         "website": "https://janicetsai1.github.io/my-website/",
@@ -38,14 +37,14 @@
           {
             "school":"University of California, Los Angeles",
             "degree":"Computer Science, College of Engineering",
-            "graduated":"Second year",
-            "description":"Education in progress... involved with Creative Labs, Bruin Hyperloop, Association of Computing Machinery, Bruin Home Solutions, Road to Damascus Acapella, AACF."
+            "graduated":"September 2019 - Present",
+            "description":"Second year. Involved with Frontend and Backend Development Teams for Creative Labs, Bruin Hyperloop, Association of Computing Machinery, and Bruin Home Solutions. Co-Music Director of Road to Damascus Acapella. Affiliated with Asian American Christian Fellowship."
           },
           {
             "school":"Dos Pueblos High School",
             "degree":"Dos Pueblos Engineering Academy",
-            "graduated":"June 2019",
-            "description":"Learned programming 3D modeling/design, machining, art, physics through hands-on projects. Went to Bay Area Maker Faire to showcase senior capstone project."
+            "graduated":"August 2015 - June 2019",
+            "description":"Learned programming, 3D modeling/design, machining, art, physics through hands-on projects. Attended Bay Area Maker Faire 2019 to showcase senior capstone project to thousands of people."
           }
         ],
         "work":[
@@ -53,19 +52,19 @@
             "company":"Bruin Home Solutions | The Data Grid",
             "title":"Backend Software Developer",
             "years":"July 2020 - Present",
-            "description":"Building a software distribution including a data collection app and web application that serves as centralized data management, macro data analysis, outreach/recruitment, public education tool, and a program development tool for all audit types."
+            "description":"Building a software distribution including a data collection app and web application that serves as centralized data management, macro data analysis, outreach/recruitment, public education tool, and a program development tool for all audit types. Using PostgreSQL, Express, and Javascript."
           },
           {
             "company":"Bild",
             "title":"Full Stack Developer",
             "years":"May 2020 - Present",
-            "description":"Using HTML, JavaScript, React, and CSS to execute on front and back-end development of the Bild platform, including onboarding manufacturers, user dashboards, and email integration. Helping build and maintain a platform that helps early-stage entrepreneurs find manufacturers for their tangible products and manage their supply chain needs."
+            "description":"Using HTML, JavaScript, React, and CSS to execute on front and back-end development of the Bild platform, including onboarding manufacturers, user dashboards, and email integration. Helping build and maintain a platform that helps early-stage entrepreneurs find manufacturers for their tangible products and manage their supply chain needs. Maintained and updated landing page, build parts of product and platform, added live customer support chat feature."
           },
           {
             "company":"Assocation of Computing Machinery | Teach LA",
             "title":"Software Developer",
             "years":"March 2020 - Present",
-            "description":"Developing an interactive module for students to learn tech related topics, including how the internet works."
+            "description":"Developing an interactive module for students to learn tech related topics, including how the internet works. Using React, HTML, Javascript, and CSS."
           }
         ],
         "skills":[
