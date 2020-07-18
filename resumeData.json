@@ -1,0 +1,136 @@
+{
+    "main": {
+        "name": "Janice Tsai",
+        "occupation": "computer science student",
+        "description": "Interested in cloud computing and security",
+        "image": "profile pic jpg here",
+        "bio": "add bio",
+        "city": "Santa Barbara",
+        "email": "janicetsai@ucla.edu",
+        "website": "https://janicetsai1.github.io/my-website/",
+        "resumedownload": "resume link",
+        "social":[
+            {
+              "name":"facebook",
+              "url":"https://www.facebook.com/janice.tsai.9634",
+              "className":"fa fa-facebook"
+            },
+            {
+              "name":"instagram",
+              "url":"https://www.instagram.com/janicetsai_/",
+              "className":"fa fa-instagram"
+            },
+            {
+              "name":"linkedin",
+              "url":"https://www.linkedin.com/in/janice-tsai-6027a4125/",
+              "className":"fa fa-linkedin"
+            },
+            {
+              "name":"github",
+              "url":"http://github.com/tbakerx",
+              "className":"fa fa-github"
+            }
+        ]
+    },
+    "resume":{
+        "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+        "education":[
+          {
+            "school":"University of California, Los Angeles",
+            "degree":"Computer Science, College of Engineering",
+            "graduated":"Second year",
+            "description":"Education in progress... involved with Creative Labs, Bruin Hyperloop, Association of Computing Machinery, Bruin Home Solutions, Road to Damascus Acapella, AACF."
+          },
+          {
+            "school":"Dos Pueblos High School",
+            "degree":"Dos Pueblos Engineering Academy",
+            "graduated":"June 2019",
+            "description":"Learned programming 3D modeling/design, machining, art, physics through hands-on projects. Went to Bay Area Maker Faire to showcase senior capstone project."
+          }
+        ],
+        "work":[
+          {
+            "company":"Bruin Home Solutions | The Data Grid",
+            "title":"Backend Software Developer",
+            "years":"July 2020 - Present",
+            "description":"Building a software distribution including a data collection app and web application that serves as centralized data management, macro data analysis, outreach/recruitment, public education tool, and a program development tool for all audit types."
+          },
+          {
+            "company":"Bild",
+            "title":"Full Stack Developer",
+            "years":"May 2020 - Present",
+            "description":"Using HTML, JavaScript, React, and CSS to execute on front and back-end development of the Bild platform, including onboarding manufacturers, user dashboards, and email integration. Helping build and maintain a platform that helps early-stage entrepreneurs find manufacturers for their tangible products and manage their supply chain needs."
+          },
+          {
+            "company":"Assocation of Computing Machinery | Teach LA",
+            "title":"Software Developer",
+            "years":"March 2020 - Present",
+            "description":"Developing an interactive module for students to learn tech related topics, including how the internet works."
+          }
+        ],
+        "skills":[
+          {
+            "name":"C++, C",
+            "level":"70%"
+          },
+          {
+            "name":"JavaScript",
+            "level":"40%"
+          },
+          {
+            "name":"Python",
+            "level":"65%"
+          },
+          {
+            "name":"PostgreSQL",
+            "level":"30%"
+          },
+          {
+            "name":"Java",
+            "level":"65%"
+          },
+          {
+            "name":"HTML",
+            "level":"75%"
+          },
+          {
+            "name":"CSS",
+            "level":"80%"
+          }
+        ]
+      },
+      "portfolio":{
+        "projects": [
+          {
+            "title":"The Data Grid",
+            "category":"A software distribution for communities to share data and resources with our platform",
+            "image":"canadian-wanderlust.jpg",
+            "url":"http://www.bruinhomesolutions.com/index.html"
+          },
+          {
+            "title":"Smart Coffee Machine",
+            "category":"Hands free coffee machine controlled via bluetooth",
+            "image":"original-thai-food.jpg",
+            "url":"https://www.linkedin.com/company/creativelabs-la/"
+          },
+          {
+            "title":"Resume Website",
+            "category":"A React based resume website template",
+            "image":"resume-website.jpg",
+            "url":"https://janicetsai1.github.io/my-portfolio/"
+          }
+        ]
+      },
+      "testimonials":{
+        "testimonials":[
+          {
+            "text":"Janice is one of the most curious people I've ever met. She's driven by her desire to learn more.",
+            "user":"Person 1"
+          },
+          {
+            "text":"I have really enjoyed working with Janice. She is one of the most hardworking young women I know.",
+            "user":"Person 2"
+          }
+        ]
+      }
+    }
