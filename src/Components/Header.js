@@ -13,18 +13,18 @@ class Header extends React.Component {
         }
 
         return (
-            <header id="home">
+            <header id="home" style={{backgroundColor: 'white'}}>
             <nav id="nav-wrap">
 
                 <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
 	            <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
 
-                <div style={{backgroundColor:'#161415'}}>
+                <div style={{backgroundColor:'#779ecb'}}>
                 <ul id="nav" className="nav">
                     <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
                     <li><a className="smoothscroll" href="#about">About</a></li>
                     <li><a className="smoothscroll" href="#resume">Resume</a></li>
-                    <li><a className="smoothscroll" href="#portfolio">Works</a></li>
+                    <li><a className="smoothscroll" href="#portfolio">Projects</a></li>
                     <li><a className="smoothscroll" href="#more">More</a></li>
                 </ul>
                 </div>

@@ -1,5 +1,6 @@
 import React from 'react';
 import profilepic from '../images/profilepic.jpg';
+import resume from '../resume_2020.pdf';
 
 class About extends React.Component {
     render() {
@@ -8,7 +9,7 @@ class About extends React.Component {
             var name = this.props.data.name;
             var bio = this.props.data.bio;
             var email = this.props.data.email;
-            var resumeDownload = this.props.data.resumedownload; // isn't linked to actual resume yet
+            var resumeDownload = this.props.data.resumedownload;
         }
 
         return (
