@@ -20,6 +20,15 @@ class Resume extends React.Component {
         return (
             <section id="resume">
                 <p>{skillmessage}</p>
+
+                <div className="row work">
+                    <div className="three columns header-col">
+                        <h1><span>Experience</span></h1>
+                    </div>
+                    <div className="nine columns main-col" style={{textAlign:'left'}}>
+                        {work}
+                    </div>
+                </div>
                 
                 <div className="row education">
                     <div className="three columns header-col">
@@ -32,15 +41,6 @@ class Resume extends React.Component {
                                 {education}
                             </div>
                         </div>
-                    </div>
-                </div>
-
-                <div className="row work">
-                    <div className="three columns header-col">
-                        <h1><span>Experience</span></h1>
-                    </div>
-                    <div className="nine columns main-col" style={{textAlign:'left'}}>
-                        {work}
                     </div>
                 </div>
 
