@@ -17,8 +17,8 @@ class Resume extends React.Component {
                 </div></Bounce>
             })
             var skills = this.props.data.skills.map(function(skills){
-                var className = 'bar-expand '+skills.name.toLowerCase();
-                return <Bounce left><li key={skills.name}><span style={{width:skills.level}}className={className}></span><em>{skills.name}</em></li></Bounce>
+              //  var className = 'bar-expand '+skills.name.toLowerCase();
+                return <Bounce left><li>{skills.name}</li></Bounce>
             })
         }
 
@@ -56,8 +56,12 @@ class Resume extends React.Component {
                     <div className="three columns header-col">
                         <h1><span>Skills</span></h1>
                     </div>
-                    <div className="bars" style={{marginTop:'40px'}}>
-                        <ul className="skills">{skills}</ul>
+                    <div className="nine columns main-col">
+                        <div className="row item">
+                            <div className="twelve columns" style={{textAlign:'left', paddingTop:'10px'}}>
+                                <Bounce left><p>C++ • C • Python • Java • React • JavaScript • HTML • CSS • PostgreSQL</p></Bounce>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 </Bounce>
