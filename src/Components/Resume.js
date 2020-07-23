@@ -4,7 +4,6 @@ import Bounce from 'react-reveal/Bounce';
 class Resume extends React.Component {
     render() {
         if(this.props.data){
-            var skillmessage = this.props.data.skillmessage;
             var education = this.props.data.education.map(function(education){
                 return <div key={education.school}><h3>{education.school}</h3>
                 <p className="info">{education.degree} <span>&bull;</span><em className="dat">{education.graduated}</em></p>
@@ -15,10 +14,6 @@ class Resume extends React.Component {
                 <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
                 <p>{work.description}</p>
                 </div>
-            })
-            var skills = this.props.data.skills.map(function(skills){
-              //  var className = 'bar-expand '+skills.name.toLowerCase();
-                return <li>{skills.name}</li>
             })
         }
 
