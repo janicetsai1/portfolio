@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/my-website/static/css/main.5f361e03.chunk.css",
-    "main.js": "/my-website/static/js/main.586495f6.chunk.js",
-    "main.js.map": "/my-website/static/js/main.586495f6.chunk.js.map",
-    "runtime-main.js": "/my-website/static/js/runtime-main.0cbcd75a.js",
-    "runtime-main.js.map": "/my-website/static/js/runtime-main.0cbcd75a.js.map",
-    "static/js/2.7e965f2c.chunk.js": "/my-website/static/js/2.7e965f2c.chunk.js",
-    "static/js/2.7e965f2c.chunk.js.map": "/my-website/static/js/2.7e965f2c.chunk.js.map",
-    "index.html": "/my-website/index.html",
-    "precache-manifest.2940603ad5cc53d2a244a864d59ad6ab.js": "/my-website/precache-manifest.2940603ad5cc53d2a244a864d59ad6ab.js",
-    "service-worker.js": "/my-website/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/my-website/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.7e965f2c.chunk.js.LICENSE.txt": "/my-website/static/js/2.7e965f2c.chunk.js.LICENSE.txt",
-    "static/media/bruin_home_solutions.png": "/my-website/static/media/bruin_home_solutions.53d83094.png",
-    "static/media/my_website_screenshot.png": "/my-website/static/media/my_website_screenshot.ce435b96.png",
-    "static/media/profilepic.jpg": "/my-website/static/media/profilepic.2327a78e.jpg",
-    "static/media/resume_2020.pdf": "/my-website/static/media/resume_2020.7f791eda.pdf"
+    "main.css": "/portfolio/static/css/main.5f361e03.chunk.css",
+    "main.js": "/portfolio/static/js/main.ca53b5a2.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ca53b5a2.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/js/2.69766658.chunk.js": "/portfolio/static/js/2.69766658.chunk.js",
+    "static/js/2.69766658.chunk.js.map": "/portfolio/static/js/2.69766658.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.63e75e9f244ec1c7efd4d9410d89fd34.js": "/portfolio/precache-manifest.63e75e9f244ec1c7efd4d9410d89fd34.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/portfolio/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.69766658.chunk.js.LICENSE.txt": "/portfolio/static/js/2.69766658.chunk.js.LICENSE.txt",
+    "static/media/bruin_home_solutions.png": "/portfolio/static/media/bruin_home_solutions.53d83094.png",
+    "static/media/my_website_screenshot.png": "/portfolio/static/media/my_website_screenshot.ce435b96.png",
+    "static/media/profilepic.jpg": "/portfolio/static/media/profilepic.2327a78e.jpg",
+    "static/media/resume_2020.pdf": "/portfolio/static/media/resume_2020.7f791eda.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.0cbcd75a.js",
-    "static/js/2.7e965f2c.chunk.js",
+    "static/js/runtime-main.209c2d7e.js",
+    "static/js/2.69766658.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.586495f6.chunk.js"
+    "static/js/main.ca53b5a2.chunk.js"
   ]
 }
