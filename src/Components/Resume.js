@@ -54,7 +54,7 @@ class Resume extends React.Component {
                     <div className="nine columns main-col">
                         <div className="row item">
                             <div className="twelve columns" style={{textAlign:'left', paddingTop:'10px'}}>
-                                <Bounce left><p>C++ • C • Python • Java • React • JavaScript • HTML • CSS • PostgreSQL</p></Bounce>
+                                <Bounce left><p>C++ • C • Python • Java • React • JavaScript • C#/.NET • HTML • CSS • SQL</p></Bounce>
                             </div>
                         </div>
                     </div>
