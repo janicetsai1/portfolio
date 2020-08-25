@@ -1,26 +1,27 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.5f361e03.chunk.css",
-    "main.js": "/portfolio/static/js/main.ca53b5a2.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.ca53b5a2.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.2fcae61e.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.2fcae61e.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/js/2.69766658.chunk.js": "/portfolio/static/js/2.69766658.chunk.js",
-    "static/js/2.69766658.chunk.js.map": "/portfolio/static/js/2.69766658.chunk.js.map",
+    "static/js/2.160af112.chunk.js": "/portfolio/static/js/2.160af112.chunk.js",
+    "static/js/2.160af112.chunk.js.map": "/portfolio/static/js/2.160af112.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.63e75e9f244ec1c7efd4d9410d89fd34.js": "/portfolio/precache-manifest.63e75e9f244ec1c7efd4d9410d89fd34.js",
+    "precache-manifest.666b5011de922ce019e410d943eed9d0.js": "/portfolio/precache-manifest.666b5011de922ce019e410d943eed9d0.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/portfolio/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.69766658.chunk.js.LICENSE.txt": "/portfolio/static/js/2.69766658.chunk.js.LICENSE.txt",
+    "static/js/2.160af112.chunk.js.LICENSE.txt": "/portfolio/static/js/2.160af112.chunk.js.LICENSE.txt",
     "static/media/bruin_home_solutions.png": "/portfolio/static/media/bruin_home_solutions.53d83094.png",
-    "static/media/my_website_screenshot.png": "/portfolio/static/media/my_website_screenshot.ce435b96.png",
+    "static/media/delivery-system.png": "/portfolio/static/media/delivery-system.f8f7f3af.png",
+    "static/media/kontagion.png": "/portfolio/static/media/kontagion.198d51b1.png",
     "static/media/profilepic.jpg": "/portfolio/static/media/profilepic.2327a78e.jpg",
     "static/media/resume_2020.pdf": "/portfolio/static/media/resume_2020.7f791eda.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
-    "static/js/2.69766658.chunk.js",
+    "static/js/2.160af112.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ca53b5a2.chunk.js"
+    "static/js/main.2fcae61e.chunk.js"
   ]
 }

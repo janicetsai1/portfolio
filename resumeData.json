@@ -49,6 +49,12 @@
         ],
         "work":[
           {
+            "company":"Montecito Bank & Trust",
+            "title":"Software Engineering Intern",
+            "years":"August 2020 - Present",
+            "description":"Automated manual process of populating a dashboard using C#/.NET and SQL."
+          },
+          {
             "company":"Bruin Home Solutions | The Data Grid",
             "title":"Backend Software Developer",
             "years":"July 2020 - Present",
@@ -58,7 +64,7 @@
             "company":"Bild",
             "title":"Full Stack Developer",
             "years":"May 2020 - Present",
-            "description":"Using HTML, JavaScript, React, and CSS to execute on front and back-end development of the Bild platform, including onboarding manufacturers, user dashboards, and email integration. Helping build and maintain a platform that helps early-stage entrepreneurs find manufacturers for their tangible products and manage their supply chain needs. Maintained and updated landing page, build parts of product and platform, added live customer support chat feature."
+            "description":"Executing on front and back-end development of the Bild platform, including onboarding manufacturers, user dashboards, and email integration. Helping build and maintain a platform that helps early-stage entrepreneurs find manufacturers for their tangible products and manage their supply chain needs. Implemented customer-driven chat interface on landing page, built parts of product and platform."
           },
           {
             "company":"Assocation of Computing Machinery | Teach LA",
@@ -103,7 +109,7 @@
           {
             "title":"The Data Grid",
             "category":"A software distribution for communities to share data and resources with our platform",
-            "image":"canadian-wanderlust.jpg",
+            "image":"bruin_home_solutions.png",
             "url":"http://www.bruinhomesolutions.com/index.html"
           },
           {
@@ -111,6 +117,18 @@
             "category":"A React based resume website",
             "image":"my_website_screenshot.png",
             "url":"https://janicetsai1.github.io/my-website/"
+          },
+          {
+            "title":"Delivery System",
+            "category":"An optimized delivery system built in C++. Uses OpenStreetMap data.",
+            "image":"my_website_screenshot.png",
+            "url":"https://github.com/janicetsai1/DeliverySystem"
+          },
+          {
+            "title":"Kontagion",
+            "category":"An arcade based shooting game. Check out the repo here!",
+            "image":"kontagion.png",
+            "url":"https://github.com/janicetsai1/Kontagion"
           },
           {
             "title":"Smart Coffee Machine",
