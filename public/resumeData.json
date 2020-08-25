@@ -120,7 +120,7 @@
           },
           {
             "title":"Delivery System",
-            "category":"An optimized delivery system built in C++. Uses OpenStreetMap data.",
+            "category":"An optimized delivery system built in C++. Uses OpenStreetMap data. Check out the repo here!",
             "image":"my_website_screenshot.png",
             "url":"https://github.com/janicetsai1/DeliverySystem"
           },
