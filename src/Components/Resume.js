@@ -2,6 +2,7 @@ import React from 'react';
 import Bounce from 'react-reveal/Bounce';
 
 class Resume extends React.Component {
+
     render() {
         if(this.props.data){
             var education = this.props.data.education.map(function(education){

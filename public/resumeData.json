@@ -51,26 +51,26 @@
           {
             "company":"Montecito Bank & Trust",
             "title":"Software Engineering Intern",
-            "years":"August 2020 - Present",
-            "description":"Automated manual process of populating a dashboard using C#/.NET and SQL."
+            "years":"Aug 2020 - Present",
+            "description":"Automated manual process of populating a dashboard. Improved and added new features to an email builder and managing tool. Building an application that monitors the health of networks and servers. Using C#, .NET, and SQL."
           },
           {
             "company":"Bruin Home Solutions | The Data Grid",
             "title":"Backend Software Developer",
-            "years":"July 2020 - Present",
+            "years":"Jul 2020 - Present",
             "description":"Building a software distribution including a data collection app and web application that serves as centralized data management, macro data analysis, outreach/recruitment, public education tool, and a program development tool for all audit types. Using PostgreSQL, Express, and Javascript."
           },
           {
             "company":"Bild",
             "title":"Full Stack Developer",
-            "years":"May 2020 - Present",
-            "description":"Executing on front and back-end development of the Bild platform, including onboarding manufacturers, user dashboards, and email integration. Helping build and maintain a platform that helps early-stage entrepreneurs find manufacturers for their tangible products and manage their supply chain needs. Implemented customer-driven chat interface on landing page, built parts of product and platform."
+            "years":"May 2020 - Sep 2020",
+            "description":"Executed on front and back-end development of the Bild platform, including onboarding manufacturers and user dashboards. Developed and maintained a platform that helps small-medium sized businesses find manufacturers for their tangible products and manage their supply chain needs. Implemented customer-driven chat interface on landing page. Used React, HTML, Javascript, and CSS."
           },
           {
             "company":"Assocation of Computing Machinery | Teach LA",
             "title":"Software Developer",
-            "years":"March 2020 - Present",
-            "description":"Developing an interactive module for students to learn tech related topics, including how the internet works. Using React, HTML, Javascript, and CSS."
+            "years":"Mar 2020 - Aug 2020",
+            "description":"Developing an interactive module for students to learn tech related topics, including how the internet works. Used React, HTML, Javascript, and CSS."
           }
         ],
         "skills":[
