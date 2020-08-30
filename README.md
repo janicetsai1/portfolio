@@ -68,6 +68,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 ## Roadmap
-* Add tags for languages/frameworks and colorcode
+~~* Add tags for languages/frameworks and colorcode~~
 * Add link to view resume
 * Add smooth scrolling and update header to highlight current section of page
