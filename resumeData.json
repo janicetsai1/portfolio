@@ -1,8 +1,10 @@
 {
     "main": {
         "name": "Janice Tsai",
+        "grade": "sophomore",
+        "school": "UCLA",
         "occupation": "computer science student",
-        "description": "Interested in cloud computing, network, and security",
+        "description": "Interested in backend, cloud computing, network, and security",
         "bio": "Aside from coding and learning new ways of solving problems, I really enjoy hiking, music, and beautiful sunsets.",
         "city": "Santa Barbara",
         "email": "janicetsai@ucla.edu",
@@ -52,25 +54,37 @@
             "company":"Montecito Bank & Trust",
             "title":"Software Engineering Intern",
             "years":"Aug 2020 - Present",
-            "description":"Automated manual process of populating a dashboard. Improved and added new features to an email builder and managing tool. Building an application that monitors the health of networks and servers. Using C#, .NET, and SQL."
+            "description":"Automated manual process of populating a dashboard. Improved and added new features to an email builder and managing tool. Building an application that monitors the health of networks and servers.",
+            "tags": [
+              "C++", ".NET", "SQL"
+            ]
           },
           {
             "company":"Bruin Home Solutions | The Data Grid",
             "title":"Backend Software Developer",
             "years":"Jul 2020 - Present",
-            "description":"Building a software distribution including a data collection app and web application that serves as centralized data management, macro data analysis, outreach/recruitment, public education tool, and a program development tool for all audit types. Using PostgreSQL, Express, and Javascript."
+            "description":"Building a software distribution including a data collection app and web application that serves as centralized data management, macro data analysis, outreach/recruitment, public education tool, and a program development tool for all audit types.",
+            "tags": [
+              "React", "Express", "PostgreSQL"
+            ]
           },
           {
             "company":"Bild",
             "title":"Full Stack Developer",
             "years":"May 2020 - Sep 2020",
-            "description":"Executed on front and back-end development of the Bild platform, including onboarding manufacturers and user dashboards. Developed and maintained a platform that helps small-medium sized businesses find manufacturers for their tangible products and manage their supply chain needs. Implemented customer-driven chat interface on landing page. Used React, HTML, Javascript, and CSS."
+            "description":"Executed on front and back-end development of the Bild platform, including onboarding manufacturers and user dashboards. Developed and maintained a platform that helps small-medium sized businesses find manufacturers for their tangible products and manage their supply chain needs. Implemented customer-driven chat interface on landing page.",
+            "tags": [
+              "React", "JavaScript", "HTML", "CSS"
+            ]
           },
           {
             "company":"Assocation of Computing Machinery | Teach LA",
             "title":"Software Developer",
             "years":"Mar 2020 - Aug 2020",
-            "description":"Developing an interactive module for students to learn tech related topics, including how the internet works. Used React, HTML, Javascript, and CSS."
+            "description":"Developing an interactive module for students to learn tech related topics, including how the internet works.",
+            "tags": [
+              "React", "JavaScript", "HTML", "CSS"
+            ]
           }
         ],
         "skills":[
@@ -110,31 +124,46 @@
             "title":"The Data Grid",
             "category":"A software distribution for communities to share data and resources with our platform",
             "image":"bruin_home_solutions.png",
-            "url":"http://www.bruinhomesolutions.com/index.html"
+            "url":"http://www.bruinhomesolutions.com/index.html",
+            "tags": [
+              "React", "Express", "PostgreSQL"
+            ]
           },
           {
             "title":"Personal Website",
             "category":"A React based resume website",
             "image":"my_website_screenshot.png",
-            "url":"https://janicetsai1.github.io/my-website/"
+            "url":"https://janicetsai1.github.io/my-website/",
+            "tags": [
+              "React"
+            ]
           },
           {
             "title":"Delivery System",
             "category":"An optimized delivery system built in C++. Uses OpenStreetMap data. Check out the repo here!",
             "image":"my_website_screenshot.png",
-            "url":"https://github.com/janicetsai1/DeliverySystem"
+            "url":"https://github.com/janicetsai1/DeliverySystem",
+            "tags": [
+              "C++"
+            ]
           },
           {
             "title":"Kontagion",
             "category":"An arcade based shooting game. Check out the repo here!",
             "image":"kontagion.png",
-            "url":"https://github.com/janicetsai1/Kontagion"
+            "url":"https://github.com/janicetsai1/Kontagion",
+            "tags": [
+              "C++"
+            ]
           },
           {
             "title":"Smart Coffee Machine",
             "category":"Hands free coffee machine controlled via bluetooth",
             "image":"creative_labs.jpg",
-            "url":"https://www.linkedin.com/company/creativelabs-la/"
+            "url":"https://www.linkedin.com/company/creativelabs-la/",
+            "tags": [
+              "Arduino", "Autodesk", "3D Printer"
+            ]
           }
         ]
       },
