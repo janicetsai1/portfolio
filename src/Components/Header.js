@@ -4,6 +4,8 @@ class Header extends React.Component {
     render() {
         if(this.props.data){
             var name = this.props.data.name;
+            var grade = this.props.data.grade;
+            var school = this.props.data.school;
             var occupation = this.props.data.occupation;
             var description = this.props.data.description;
             var city = this.props.data.city;
@@ -33,7 +35,7 @@ class Header extends React.Component {
             <div className="row banner">
                 <div className="banner-text">
                     <h1 className="responsive-headline">I'm {name}.</h1>
-                    <h3>I'm a {city} based <span>{occupation}</span>. {description}.</h3>
+                    <h3>I'm a <span>{occupation}</span> at <span>{school}</span>. {description}.</h3>
                     <hr />
                     <ul className="social">
                         {networks}

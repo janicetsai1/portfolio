@@ -1,6 +1,5 @@
 import React from 'react';
 import profilepic from '../images/profilepic.jpg';
-import resume from '../resume_2020.pdf';
 
 class About extends React.Component {
    render() {

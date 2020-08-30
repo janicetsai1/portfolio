@@ -1,5 +1,10 @@
 import React from 'react';
 import Bounce from 'react-reveal/Bounce';
+import Chip from '@material-ui/core/Chip';
+
+const languages = [
+    'C++', 'C', 'Python', 'Java', 'React', 'JavaScript', 'C#/.NET', 'SQL', 'HTML', 'CSS'
+]
 
 class Resume extends React.Component {
 
@@ -10,6 +15,7 @@ class Resume extends React.Component {
                 <p className="info">{education.degree} <span>&bull;</span><em className="dat">{education.graduated}</em></p>
                 <p>{education.description}</p></div>
             })
+
             var work = this.props.data.work.map(function(work){
                 return <div key={work.company}><h3>{work.company}</h3>
                 <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
@@ -52,13 +58,17 @@ class Resume extends React.Component {
                     <div className="three columns header-col">
                         <h1><span>Skills</span></h1>
                     </div>
+                    <Bounce left>
                     <div className="nine columns main-col">
                         <div className="row item">
-                            <div className="twelve columns" style={{textAlign:'left', paddingTop:'10px'}}>
-                                <Bounce left><p>C++ • C • Python • Java • React • JavaScript • C#/.NET • HTML • CSS • SQL</p></Bounce>
+                            <div className="twelve columns" style={{textAlign:'left', paddingTop:'10px', display: 'flex', flexWrap: 'wrap' }}>
+                            {languages.map((language) => (
+                                <Chip variant="outlined" label={language} style={{ fontSize: '14px', margin: '5px' }} />
+                            ))}
                             </div>
                         </div>
                     </div>
+                    </Bounce>
                 </div>
                 </Bounce>
             </section>
