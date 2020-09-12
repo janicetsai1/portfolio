@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Personal Website
-Check out my React based website!
+Check out my React based website! (Linked in the description)
 
 ## Roadmap
 - [x] Add tags for languages/frameworks/skills
