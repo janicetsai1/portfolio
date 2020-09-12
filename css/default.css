@@ -58,6 +58,15 @@ time, mark, audio, video {
    background: transparent;
 }
 
+html {
+   scroll-behavior: smooth;
+}
+
+.current-link,
+.nav-option:hover {
+   color: #3d3d3d !important;
+}
+
 article,aside,details,figcaption,figure,
 footer,header,hgroup,menu,nav,section {
    display: block;
