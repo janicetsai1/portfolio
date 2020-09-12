@@ -69,6 +69,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## Roadmap
 - [x] Add tags for languages/frameworks/skills
+- [x] Add smooth scrolling and change navigation text color on hover 
 - [ ] Color code tags by category
 - [ ] Add link to view resume
-- [ ] Add smooth scrolling and update header to highlight current section of page
+- [ ] update header to highlight current section of page
