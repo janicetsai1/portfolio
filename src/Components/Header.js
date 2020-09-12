@@ -1,6 +1,10 @@
 import React from 'react';
 
 class Header extends React.Component {
+    constructor(props) {
+        super(props);
+    }
+    
     render() {
         if(this.props.data){
             var name = this.props.data.name;
@@ -22,10 +26,10 @@ class Header extends React.Component {
 
                 <div style={{backgroundColor:'#779ecb'}}>
                 <ul id="nav" className="nav">
-                    <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
-                    <li><a className="smoothscroll" href="#resume">Resume</a></li>
-                    <li><a className="smoothscroll" href="#portfolio">Projects</a></li>
-                    <li><a className="smoothscroll" href="#about">About</a></li>
+                    <li className="current"><a href="#home">Home</a></li>
+                    <li><a href="#resume">Resume</a></li>
+                    <li><a href="#portfolio">Projects</a></li>
+                    <li><a href="#about">About</a></li>
                 </ul>
                 </div>
             </nav>
@@ -40,7 +44,7 @@ class Header extends React.Component {
                 </div>
             </div>
             <p className="scrolldown">
-                <a className="smoothscroll" href="#resume"><i className="icon-down-circle"></i></a>
+                <a href="#resume"><i className="icon-down-circle"></i></a>
             </p>
             </header>
         )

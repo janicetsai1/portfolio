@@ -54,7 +54,7 @@
             "company":"Montecito Bank & Trust",
             "title":"Software Engineering Intern",
             "years":"Aug 2020 - Present",
-            "description":"Automated manual process of populating a dashboard. Improved and added new features to an email builder and managing tool. Building an application that monitors the health of networks and servers.",
+            "description":"Building a charting application that monitors the health of networks and servers, providing live statistics and visualization. Significantly reduced query and number of API calls by more than 90%. Improved workflow productivity by automating manual process of populating a dashboard. Implemented bug fixtures and added features like sorting by category and duplication of emails to an email builder and managing tool.",
             "tags": [
               "C++", ".NET", "SQL"
             ]
@@ -63,7 +63,7 @@
             "company":"Bruin Home Solutions | The Data Grid",
             "title":"Backend Software Developer",
             "years":"Jul 2020 - Present",
-            "description":"Building a software distribution including a data collection app and web application that serves as centralized data management, macro data analysis, outreach/recruitment, public education tool, and a program development tool for all audit types.",
+            "description":"Creating a centralized data management application for auditors across campus. Helping design backend architecture. Wrote query validation for database schema.",
             "tags": [
               "React", "Express", "PostgreSQL"
             ]
@@ -72,7 +72,7 @@
             "company":"Bild",
             "title":"Full Stack Developer",
             "years":"May 2020 - Sep 2020",
-            "description":"Executed on front and back-end development of the Bild platform, including onboarding manufacturers and user dashboards. Developed and maintained a platform that helps small-medium sized businesses find manufacturers for their tangible products and manage their supply chain needs. Implemented customer-driven chat interface on landing page.",
+            "description":"Developed and maintained a platform that helps small-medium sized businesses find manufacturers for their tangible products and manage their supply chain needs. Built pages and dashboards from UI/UX designs. Implemented customer-driven chat interface on landing page. Condensed page resopnse times through optimization.",
             "tags": [
               "React", "JavaScript", "HTML", "CSS"
             ]
