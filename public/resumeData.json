@@ -23,7 +23,7 @@
             },
             {
               "name":"linkedin",
-              "url":"https://www.linkedin.com/in/janice-tsai-6027a4125/",
+              "url":"www.linkedin.com/in/janicetsai1",
               "className":"fa fa-linkedin"
             },
             {
@@ -130,17 +130,17 @@
             ]
           },
           {
-            "title":"Personal Website",
-            "category":"A React based resume website",
-            "image":"my_website_screenshot.png",
-            "url":"https://janicetsai1.github.io/my-website/",
+            "title":"Pathfinding Algorithm Visualizer",
+            "category":"An interactive algorithm visualizer.",
+            "image":"creative_labs.jpg",
+            "url":"https://github.com/janicetsai1/pathfinding-visualizer",
             "tags": [
-              "React"
+              "JavaScript", "React"
             ]
           },
           {
             "title":"Delivery System",
-            "category":"An optimized delivery system built in C++. Uses OpenStreetMap data. Check out the repo here!",
+            "category":"An optimized delivery system built in C++, using OpenStreetMap data.",
             "image":"my_website_screenshot.png",
             "url":"https://github.com/janicetsai1/DeliverySystem",
             "tags": [
@@ -149,11 +149,20 @@
           },
           {
             "title":"Kontagion",
-            "category":"An arcade based shooting game. Check out the repo here!",
+            "category":"An arcade based shooting game.",
             "image":"kontagion.png",
             "url":"https://github.com/janicetsai1/Kontagion",
             "tags": [
               "C++"
+            ]
+          },
+          {
+            "title":"Personal Website",
+            "category":"A React based resume website",
+            "image":"my_website_screenshot.png",
+            "url":"https://janicetsai1.github.io/my-website/",
+            "tags": [
+              "React"
             ]
           },
           {

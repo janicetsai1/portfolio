@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import creativeLabsImg from '../images/creative_labs.jpg';
+import visualizerImg from '../images/visualizer_img.png';
 import bhsImg from '../images/bruin_home_solutions.png';
 import kontagionImg from '../images/kontagion.png';
 import deliverySystemImg from '../images/delivery-system.png';
@@ -24,7 +24,23 @@ class Portfolio extends Component {
            </div>
          </div>
         }
-        if(projects.title === 'Delivery System') {
+        if(projects.title === 'Pathfinding Algorithm Visualizer') {
+          return <div key={projects.title} className="columns portfolio-item">
+          <div className="item-wrap">
+           <a href={projects.url} title={projects.title}>
+              <img alt={projects.title} src={visualizerImg} />
+              <div className="overlay">
+                 <div className="portfolio-item-meta">
+                <h5>{projects.title}</h5>
+                    <p>{projects.category}</p>
+                 </div>
+               </div>
+             <div className="link-icon"><i className="fa fa-link"></i></div>
+           </a>
+         </div>
+       </div>
+      } 
+      if(projects.title === 'Delivery System') {
           return <div key={projects.title} className="columns portfolio-item">
           <div className="item-wrap">
            <a href={projects.url} title={projects.title}>
@@ -40,7 +56,7 @@ class Portfolio extends Component {
          </div>
        </div>
       }
-        if(projects.title === 'Kontagion') {
+      if(projects.title === 'Kontagion') {
           return <div key={projects.title} className="columns portfolio-item">
           <div className="item-wrap">
            <a href={projects.url} title={projects.title}>
@@ -56,22 +72,6 @@ class Portfolio extends Component {
          </div>
        </div>
         }
-        if(projects.title === 'Smart Coffee Machine') {
-            return <div key={projects.title} className="columns portfolio-item">
-            <div className="item-wrap">
-             <a href={projects.url} title={projects.title}>
-                <img alt={projects.title} src={creativeLabsImg} />
-                <div className="overlay">
-                   <div className="portfolio-item-meta">
-                  <h5>{projects.title}</h5>
-                      <p>{projects.category}</p>
-                   </div>
-                 </div>
-               <div className="link-icon"><i className="fa fa-link"></i></div>
-             </a>
-           </div>
-         </div>
-        } 
       })
     }
 

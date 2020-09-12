@@ -3,7 +3,7 @@ import Bounce from 'react-reveal/Bounce';
 import Chip from '@material-ui/core/Chip';
 
 const languages = [
-    'C++', 'C', 'Python', 'Java', 'React', 'JavaScript', 'C#/.NET', 'SQL', 'HTML', 'CSS'
+    'C++', 'C', 'Python', 'Java', 'React', 'JavaScript', 'C#/.NET', 'SQL', 'Git', 'HTML', 'CSS'
 ]
 
 class Resume extends React.Component {

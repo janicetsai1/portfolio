@@ -17,7 +17,6 @@ class Header extends React.Component {
         return (
             <header id="home" style={{backgroundColor: 'white'}}>
             <nav id="nav-wrap">
-
                 <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
 	            <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
 
@@ -29,9 +28,7 @@ class Header extends React.Component {
                     <li><a className="smoothscroll" href="#about">About</a></li>
                 </ul>
                 </div>
-
             </nav>
-
             <div className="row banner">
                 <div className="banner-text">
                     <h1 className="responsive-headline">I'm {name}.</h1>
@@ -42,7 +39,6 @@ class Header extends React.Component {
                     </ul>
                 </div>
             </div>
-
             <p className="scrolldown">
                 <a className="smoothscroll" href="#resume"><i className="icon-down-circle"></i></a>
             </p>
