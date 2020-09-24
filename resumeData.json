@@ -5,7 +5,7 @@
         "school": "UCLA",
         "occupation": "computer science student",
         "description": "Interested in backend, cloud computing, network, and security",
-        "bio": "Aside from coding and learning new ways of solving problems, I really enjoy hiking, music, and beautiful sunsets.",
+        "bio": "Aside from coding and learning new ways of solving problems that make an impact, I really enjoy hiking, music, and being outdoors.",
         "city": "Santa Barbara",
         "email": "janicetsai@ucla.edu",
         "website": "https://janicetsai1.github.io/my-website/",
@@ -40,7 +40,7 @@
             "school":"University of California, Los Angeles",
             "degree":"Computer Science, College of Engineering",
             "graduated":"September 2019 - Present",
-            "description":"Second year. Involved with Frontend and Backend Development Teams for Creative Labs, Bruin Hyperloop, Association of Computing Machinery, and Bruin Home Solutions. Co-Music Director of Road to Damascus Acapella. Affiliated with Asian American Christian Fellowship."
+            "description":"Second year. Engineering related organizations: Women in Engineering Organization at UCLA, Bruin Home Solutions. Non-technical: Co-Music Director of Road to Damascus Acapella."
           },
           {
             "school":"Dos Pueblos High School",
@@ -54,7 +54,7 @@
             "company":"Montecito Bank & Trust",
             "title":"Software Engineering Intern",
             "years":"Aug 2020 - Present",
-            "description":"Building a charting application that monitors the health of networks and servers, providing live statistics and visualization. Significantly reduced query and number of API calls by more than 90%. Improved workflow productivity by automating manual process of populating a dashboard. Implemented bug fixtures and added features like sorting by category and duplication of emails to an email builder and managing tool.",
+            "description":"Built a charting application that monitors the health of networks and servers, providing live statistics and visualization. Significantly reduced query and number of API calls by more than 90%. Improved workflow productivity by automating manual process of populating a dashboard. Implemented bug fixtures and added sorting by category, duplication of emails, and send notification abilities to an email builder and managing tool.",
             "tags": [
               "C++", ".NET", "SQL"
             ]
@@ -72,7 +72,7 @@
             "company":"Bild",
             "title":"Full Stack Developer",
             "years":"May 2020 - Sep 2020",
-            "description":"Developed and maintained a platform that helps small-medium sized businesses find manufacturers for their tangible products and manage their supply chain needs. Built pages and dashboards from UI/UX designs. Implemented customer-driven chat interface on landing page. Condensed page resopnse times through optimization.",
+            "description":"Developed and maintained a platform that helps small-medium sized businesses find manufacturers for their tangible products and manage their supply chain needs. Built pages and dashboards from UI/UX designs. Implemented customer-driven chat interface on landing page. Condensed page response times through optimization.",
             "tags": [
               "React", "JavaScript", "HTML", "CSS"
             ]
