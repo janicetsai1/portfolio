@@ -54,7 +54,7 @@
             "company":"Montecito Bank & Trust",
             "title":"Software Engineering Intern",
             "years":"Aug 2020 - Present",
-            "description":"Built a charting application that monitors the health of networks and servers, providing live statistics and visualization. Significantly reduced query and number of API calls by more than 90%. Improved workflow productivity by automating manual process of populating a dashboard. Implemented bug fixtures and added sorting by category, duplication of emails, and send notification abilities to an email builder and managing tool.",
+            "description":"Built a charting application that monitors the health of networks and servers, providing live statistics and visualization. Significantly reduced query and number of API calls by more than 80%. Improved workflow productivity by automating manual process of populating a dashboard. Implemented bug fixtures and added sorting by category, duplication of emails, and send notification abilities to an email builder and managing tool.",
             "tags": [
               "C++", ".NET", "SQL"
             ]
