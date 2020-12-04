@@ -4,10 +4,10 @@
         "grade": "sophomore",
         "school": "UCLA",
         "occupation": "computer science student",
-        "description": "Interested in backend, cloud computing, network, and security",
-        "bio": "Aside from coding and learning new ways of solving problems that make an impact, I really enjoy hiking, music, and being outdoors.",
+        "description": "Interested in backend and fascinated with using technology to solve problems that will truly make an impact",
+        "bio": "Aside from coding and learning new ways of solving problems that make an impact, I enjoy hiking, music, and being outdoors.",
         "city": "Santa Barbara",
-        "email": "janicetsai@ucla.edu",
+        "email": "janicetsai@g.ucla.edu",
         "website": "https://janicetsai1.github.io/my-website/",
         "resumedownload": "resume_2020.pdf",
         "social":[
@@ -40,32 +40,52 @@
             "school":"University of California, Los Angeles",
             "degree":"Computer Science, College of Engineering",
             "graduated":"September 2019 - Present",
-            "description":"Second year. Engineering related organizations: Women in Engineering Organization at UCLA, Bruin Home Solutions. Non-technical: Co-Music Director of Road to Damascus Acapella."
+            "description":"Developer of Nova, Tech for Good, Member of Women in Engineering, Co-Music Director of Road to Damascus Acapella",
+            "pastClubs": "Bruin Home Solutions, ACM TeachLA, Creative Labs, Bruin Hyperloop"
           },
           {
             "school":"Dos Pueblos High School",
             "degree":"Dos Pueblos Engineering Academy",
             "graduated":"August 2015 - June 2019",
-            "description":"Learned programming, 3D modeling/design, machining, art, physics through hands-on projects. Attended Bay Area Maker Faire 2019 to showcase senior capstone project to thousands of people."
+            "description":"Learned programming, 3D modeling/design, machining, art, physics through hands-on projects. Attended Bay Area Maker Faire 2019 to showcase senior capstone project to thousands of people.",
+            "pastClubs": ""
           }
         ],
         "work":[
           {
-            "company":"Montecito Bank & Trust",
-            "title":"Software Engineering Intern",
-            "years":"Aug 2020 - Present",
-            "description":"Built a charting application that monitors the health of networks and servers, providing live statistics and visualization. Significantly reduced query and number of API calls by more than 80%. Improved workflow productivity by automating manual process of populating a dashboard. Implemented bug fixtures and added sorting by category, duplication of emails, and send notification abilities to an email builder and managing tool.",
+            "company":"Nova, Tech for Good",
+            "title":"Software Developer",
+            "years":"Oct 2020 - Present",
+            "description":"Building chat implementation for an iOS application that allows victims of assault to connect and chat with others. Analyzing point in time data and mapping out a solution for a nonprofit organization to reach their goal of providing for more than 6,000 homeless individuals.",
             "tags": [
-              "C++", ".NET", "SQL"
+              "React", "Express", "Firebase"
+            ]
+          },
+          {
+            "company":"Bruin Entrepreneurs",
+            "title":"Operations Board Member",
+            "years":"Oct 2020 - Present",
+            "description":"Facilitating and planning weekly workshops/presentations for UCLA students to learn about entrepreneurship.",
+            "tags": [
+              "Planning"
             ]
           },
           {
             "company":"Bruin Home Solutions | The Data Grid",
             "title":"Backend Software Developer",
-            "years":"Jul 2020 - Present",
-            "description":"Creating a centralized data management application for auditors across campus. Helping design backend architecture. Wrote query validation for database schema.",
+            "years":"Jul 2020 - Nov 2020",
+            "description":"Created a centralized data management application for auditors across campus. Wrote unit and api tests using jest and supertest. Implemented query validation for database schema.",
             "tags": [
               "React", "Express", "PostgreSQL"
+            ]
+          },
+          {
+            "company":"Montecito Bank & Trust",
+            "title":"Software Engineering Intern",
+            "years":"Aug 2020 - Sep 2020",
+            "description":"Built a charting application that monitors the health of networks and servers, providing live statistics and visualization. Significantly reduced query and number of API calls by more than 80%. Developed REST API to automate manual process of populating a dashboard. Implemented bug fixtures and added sorting by category, duplication of emails, and send notification abilities to an email building and managing tool.",
+            "tags": [
+              "C++", ".NET", "SQL"
             ]
           },
           {

@@ -13,7 +13,10 @@ class Resume extends React.Component {
             var education = this.props.data.education.map(function(education){
                 return <div key={education.school}><h3>{education.school}</h3>
                 <p className="info">{education.degree} <span>&bull;</span><em className="dat">{education.graduated}</em></p>
-                <p>{education.description}</p></div>
+            <p>{education.school == "University of California, Los Angeles" && <b>Current: </b>}
+            {education.description}<br />
+            {education.school == "University of California, Los Angeles" && <b>Past: </b>}
+            {education.pastClubs}</p></div>
             })
 
             var work = this.props.data.work.map(function(work){
