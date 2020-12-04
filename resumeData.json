@@ -4,7 +4,7 @@
         "grade": "sophomore",
         "school": "UCLA",
         "occupation": "computer science student",
-        "description": "Interested in backend and fascinated with using technology to solve problems that will truly impact society",
+        "description": "Interested in backend and fascinated with using technology to solve problems that will truly make an impact",
         "bio": "Aside from coding and learning new ways of solving problems that make an impact, I enjoy hiking, music, and being outdoors.",
         "city": "Santa Barbara",
         "email": "janicetsai@g.ucla.edu",
@@ -40,8 +40,8 @@
             "school":"University of California, Los Angeles",
             "degree":"Computer Science, College of Engineering",
             "graduated":"September 2019 - Present",
-            "description":"Developer of Nova, Tech for Good, Member of Women in Engineering, Backend Developer of Bruin Home Solutions, Co-Music Director of Road to Damascus Acapella.",
-            "pastClubs": "ACM TeachLA, Creative Labs, Bruin Hyperloop"
+            "description":"Developer of Nova, Tech for Good, Member of Women in Engineering, Co-Music Director of Road to Damascus Acapella",
+            "pastClubs": "Bruin Home Solutions, ACM TeachLA, Creative Labs, Bruin Hyperloop"
           },
           {
             "school":"Dos Pueblos High School",
