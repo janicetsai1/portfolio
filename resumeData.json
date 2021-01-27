@@ -56,7 +56,7 @@
             "company":"Nova, Tech for Good",
             "title":"Software Developer",
             "years":"Oct 2020 - Present",
-            "description":"Building chat implementation for an iOS application that allows victims of assault to connect and chat with others. Analyzing point in time data and mapping out a solution for a nonprofit organization to reach their goal of providing for more than 6,000 homeless individuals.",
+            "description":"Working on backend for an iOS application that allows victims of assault to connect and chat with others. Analyzing point in time data and mapping out a solution for a nonprofit organization to reach their goal of providing for more than 6,000 homeless individuals.",
             "tags": [
               "React", "Express", "Firebase"
             ]
