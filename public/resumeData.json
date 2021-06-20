@@ -1,7 +1,7 @@
 {
     "main": {
         "name": "Janice Tsai",
-        "grade": "sophomore",
+        "grade": "junior",
         "school": "UCLA",
         "occupation": "computer science student",
         "description": "Interested in backend and fascinated with using technology to solve problems that will truly make an impact",
@@ -51,7 +51,36 @@
             "pastClubs": ""
           }
         ],
-        "work":[
+        "experience":[
+          {
+            "company":"Salesforce (Tableau)",
+            "title":"Software Engineer Intern",
+            "years":"Jun 2021 - Present",
+            "description":"Stay on the Web Team",
+            "tags": [
+              "C++"
+            ]
+          },
+          {
+            "company":"Montecito Bank & Trust",
+            "title":"Software Engineer Intern",
+            "years":"Aug 2020 - Sep 2020",
+            "description":"Built a charting application that monitors the health of networks and servers, providing live statistics and visualization. Significantly reduced query and number of API calls by more than 80%. Developed REST API to automate manual process of populating a dashboard. Implemented bug fixtures and added sorting by category, duplication of emails, and send notification abilities to an email building and managing tool.",
+            "tags": [
+              "C++", ".NET", "SQL"
+            ]
+          },
+          {
+            "company":"Bild",
+            "title":"Full Stack Developer",
+            "years":"May 2020 - Sep 2020",
+            "description":"Developed and maintained a platform that helps small-medium sized businesses find manufacturers for their tangible products and manage their supply chain needs. Built pages and dashboards from UI/UX designs. Implemented customer-driven chat interface on landing page. Condensed page response times through optimization.",
+            "tags": [
+              "React", "JavaScript", "HTML", "CSS"
+            ]
+          }
+        ],
+        "extracurriculars":[
           {
             "company":"Nova, Tech for Good",
             "title":"Software Developer",
@@ -77,24 +106,6 @@
             "description":"Created a centralized data management application for auditors across campus. Wrote unit and api tests using jest and supertest. Implemented query validation for database schema.",
             "tags": [
               "React", "Express", "PostgreSQL"
-            ]
-          },
-          {
-            "company":"Montecito Bank & Trust",
-            "title":"Software Engineering Intern",
-            "years":"Aug 2020 - Sep 2020",
-            "description":"Built a charting application that monitors the health of networks and servers, providing live statistics and visualization. Significantly reduced query and number of API calls by more than 80%. Developed REST API to automate manual process of populating a dashboard. Implemented bug fixtures and added sorting by category, duplication of emails, and send notification abilities to an email building and managing tool.",
-            "tags": [
-              "C++", ".NET", "SQL"
-            ]
-          },
-          {
-            "company":"Bild",
-            "title":"Full Stack Developer",
-            "years":"May 2020 - Sep 2020",
-            "description":"Developed and maintained a platform that helps small-medium sized businesses find manufacturers for their tangible products and manage their supply chain needs. Built pages and dashboards from UI/UX designs. Implemented customer-driven chat interface on landing page. Condensed page response times through optimization.",
-            "tags": [
-              "React", "JavaScript", "HTML", "CSS"
             ]
           },
           {
@@ -193,18 +204,6 @@
             "tags": [
               "Arduino", "Autodesk", "3D Printer"
             ]
-          }
-        ]
-      },
-      "testimonials":{
-        "testimonials":[
-          {
-            "text":"Janice is one of the most curious people I've ever met. She's driven by her desire to learn more.",
-            "user":"Person 1"
-          },
-          {
-            "text":"I have really enjoyed working with Janice. She is one of the most hardworking young women I know.",
-            "user":"Person 2"
           }
         ]
       }

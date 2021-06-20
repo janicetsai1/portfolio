@@ -10,6 +10,20 @@ class Resume extends React.Component {
 
     render() {
         if(this.props.data){
+            var experience = this.props.data.experience.map(function(work){
+                return <div key={work.company}><h3>{work.company}</h3>
+                <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
+                <p>{work.description}</p>
+                </div>
+            });
+
+            var extracurriculars = this.props.data.extracurriculars.map(function(work){
+                return <div key={work.company}><h3>{work.company}</h3>
+                <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
+                <p>{work.description}</p>
+                </div>
+            });
+
             var education = this.props.data.education.map(function(education){
                 return <div key={education.school}><h3>{education.school}</h3>
                 <p className="info">{education.degree} <span>&bull;</span><em className="dat">{education.graduated}</em></p>
@@ -17,14 +31,7 @@ class Resume extends React.Component {
             {education.description}<br />
             {education.school == "University of California, Los Angeles" && <b>Past: </b>}
             {education.pastClubs}</p></div>
-            })
-
-            var work = this.props.data.work.map(function(work){
-                return <div key={work.company}><h3>{work.company}</h3>
-                <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
-                <p>{work.description}</p>
-                </div>
-            })
+            });
         }
 
         return (
@@ -35,7 +42,18 @@ class Resume extends React.Component {
                         <h1><span>Experience</span></h1>
                     </div>
                     <div className="nine columns main-col" style={{textAlign:'left'}}>
-                        {work}
+                        {experience}
+                    </div>
+                </div>
+                </Bounce>
+
+                <Bounce left>
+                <div className="row work">
+                    <div className="three columns header-col">
+                        <h1><span>Extracurriculars</span></h1>
+                    </div>
+                    <div className="nine columns main-col" style={{textAlign:'left'}}>
+                        {extracurriculars}
                     </div>
                 </div>
                 </Bounce>
