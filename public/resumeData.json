@@ -40,8 +40,8 @@
             "school":"University of California, Los Angeles",
             "degree":"Computer Science, College of Engineering",
             "graduated":"September 2019 - Present",
-            "description":"Developer of Nova, Tech for Good, Member of Women in Engineering, Co-Music Director of Road to Damascus Acapella",
-            "pastClubs": "Bruin Home Solutions, ACM TeachLA, Creative Labs, Bruin Hyperloop"
+            "description":"Developer at Nova, Tech for Good, Member of Women in Engineering, Co-President and Musical Director of Road to Damascus A Cappella",
+            "pastClubs": "Bruin Entrepreneurs, Bruin Home Solutions, ACM TeachLA, Creative Labs, Bruin Hyperloop"
           },
           {
             "school":"Dos Pueblos High School",
@@ -88,6 +88,15 @@
             "description":"Working on backend for an iOS application that allows victims of assault to connect and chat with others. Analyzing point in time data and mapping out a solution for a nonprofit organization to reach their goal of providing for more than 6,000 homeless individuals.",
             "tags": [
               "React", "Express", "Firebase"
+            ]
+          },
+          {
+            "company":"Road to Damascus A Cappella",
+            "title":"Co-President/Musical Director",
+            "years":"Aug 2020 - Present",
+            "description":"Overseeing an a cappella group, leading rehearsals, arranging sheet music, and organizing concerts and gigs",
+            "tags": [
+              "leadesrhip"
             ]
           },
           {
