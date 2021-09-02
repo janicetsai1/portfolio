@@ -53,10 +53,10 @@
         ],
         "experience":[
           {
-            "company":"Salesforce (Tableau)",
+            "company":"Salesforce - Tableau",
             "title":"Software Engineer Intern",
-            "years":"Jun 2021 - Present",
-            "description":"Stay on the Web Team",
+            "years":"Jun 2021 - Sep 2021",
+            "description":"Delivered four user facing features for Tableau Server and Tableau Online",
             "tags": [
               "C++"
             ]
@@ -85,7 +85,7 @@
             "company":"Nova, Tech for Good",
             "title":"Software Developer",
             "years":"Oct 2020 - Present",
-            "description":"Working on backend for an iOS application that allows victims of assault to connect and chat with others. Analyzing point in time data and mapping out a solution for a nonprofit organization to reach their goal of providing for more than 6,000 homeless individuals.",
+            "description":"Working on backend and admin platform for an iOS application that allows victims of assault to connect and chat with others. Analyzing point in time data and mapping out a solution for a nonprofit organization to reach their goal of providing for more than 6,000 homeless individuals.",
             "tags": [
               "React", "Express", "Firebase"
             ]
