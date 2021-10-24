@@ -53,10 +53,26 @@
         ],
         "experience":[
           {
-            "company":"Salesforce - Tableau",
+            "company":"Facebook",
+            "title":"Incoming Software Engineer Intern",
+            "years":"Jun 2022",
+            "description":"",
+            "tags": [
+            ]
+          },
+          {
+            "company":"Robinhood",
+            "title":"Incoming Software Engineer Intern",
+            "years":"Jan 2022",
+            "description":"Backend",
+            "tags": [
+            ]
+          },
+          {
+            "company":"Salesforce",
             "title":"Software Engineer Intern",
             "years":"Jun 2021 - Sep 2021",
-            "description":"Delivered four user facing features for Tableau Server and Tableau Online",
+            "description":"Delivered four user facing features for Tableau Server, Online, and Prem",
             "tags": [
               "C++"
             ]
